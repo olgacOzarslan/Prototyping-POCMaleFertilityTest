@@ -1,0 +1,6 @@
+path: '/Users/olgacozarslan/Desktop/python-scripts/Tensorflow/semen-analysis/YOLO/'  # Key
+train: 'YOLO_train'  # Value, indented one level further
+val: 'YOLO_val'  # Value, indented one level further
+test: 'YOLO_test'  # Value, indented one level further
+nc: 5  # Key
+names: ['5<ph<7', '7<ph<8', '8<ph<10', 'sc<10', 'sc>10']  # Value, indented one level further
