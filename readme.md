@@ -7,7 +7,7 @@
 This repository documents a machine learning–augmented, paper-based **point-of-care (PoC) male fertility test**, where **synthetic image generation** and **YOLOv8** enable accurate detection and interpretation of colorimetric test results using a mobile phone camera.
 
 📰 **Published in:**  
-[Sustainable Diagnostics (RSC) – 2025](https://pubs.rsc.org/en/content/articlelanding/2025/sd/d4sd00348a)
+[Sensors & Diagnostics (RSC) – 2025](https://pubs.rsc.org/en/content/articlelanding/2025/sd/d4sd00348a)
 
 ---
 
